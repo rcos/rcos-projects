@@ -5,7 +5,7 @@ Hello RCOS member!
 
 In this assignment, you'll be practicing contributing to an open-source repository with the "fork & pull" model.
 
-Your task is to create a pull request into your project's folder (creating your project folder if it doesn't already exist) and adding your name to a `members.txt` file (again, create this if it doesn't exist).
+Your task is to create a pull request into your project's folder (creating your project folder if it doesn't already exist) and adding your name (and an optional descriptor) to a `members.txt` file (again, create this if it doesn't exist).
 
 Then, submit a pull request to this repository so that a project maintainer can add your changes to the repo.
 
