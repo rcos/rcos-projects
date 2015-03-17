@@ -1,4 +1,8 @@
 Caroline Sullivan
 Christian Encarnacion
+<<<<<<< HEAD
 Christopher George
 Stephen Wood
+=======
+Christopher George
+>>>>>>> origin/master
