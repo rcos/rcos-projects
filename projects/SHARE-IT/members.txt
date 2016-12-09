@@ -1,1 +1,3 @@
-David Ivey
+David Ivey (Rails)
+David Chen (IOS)
+Joe Shvedsky (Android)
